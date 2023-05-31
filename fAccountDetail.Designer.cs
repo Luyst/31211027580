@@ -212,7 +212,7 @@
             this.Name = "fAccountDetail";
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
-            this.Text = "fAccountDetail";
+            this.Text = "Thông tin tài khoản";
             this.pnTen.ResumeLayout(false);
             this.pnTen.PerformLayout();
             this.paHovaTen.ResumeLayout(false);
