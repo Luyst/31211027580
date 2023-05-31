@@ -51,7 +51,7 @@ namespace DoAn_31211027580.DAO
             string query;
             if (password == null)
             {
-                query = $"SELCET * FROM ACCOUNT WHERE UserName='{username}'";
+                query = $"SELECT * FROM ACCOUNT WHERE UserName='{username}'";
             }
             else
             {
