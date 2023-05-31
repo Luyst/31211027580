@@ -210,7 +210,7 @@
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "fPassword";
+            this.Text = "Cập nhật mật khẩu";
             this.Load += new System.EventHandler(this.fPassword_Load);
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
